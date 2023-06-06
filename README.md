@@ -1,2 +1,2 @@
 # Cloud-Computing-Projects
-Hey, Here i have mentioned my Projects.
+Hands on Experience - Cloud Computing Projects (AWS and Microsoft Azure)
